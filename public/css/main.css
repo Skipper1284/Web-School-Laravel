@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Vollkorn+SC');
+
+body {
+  font-family: "Lato";
+  background-color: #FFFFFF;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family:"Raleway";
+  font-weight:300;
+  color:#333;
+}
+
+p {
+
+
+}
+
+#logo{
+  font-family: 'Vollkorn SC', serif;
+  color: #212529;
+  text-decoration: overline;
+  font-size: 30px;
+
+}
+.footer {
+
+   color:#BBBBBB;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   min-height:100px;
+   text-align: center;
+   background-color: #292C2F;
+
+}
+
+.navbar {
+
+  background-color: #FFFFFF;
+  outline-color: #333333;
+
+
+}
+
+#help {
+
+  background-image: url(/img/picture2.png);
+  margin-top: -20px;
+  padding-top: 100px;
+
+  text-align:center;
+  min-height:500px;
+}
+
+.form-group {
+  text-align:center;
+}
+
+.navbar-default {
+
+
+  min_height:100px;
+}
+
+
+.tpk {
+  min-height: 500px;
+}
